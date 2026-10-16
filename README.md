@@ -2,12 +2,12 @@
 
 ## Group `<group number>`
 
-- `Rafe Ordelmans` | `3949710` | `R-UT26`
+- `Rafe Ordelmans` | `S3949710` | `R-UT26`
 - `Sjoerd Bottema` | `S3972968` | `@SjoerdBottema-Tech`
 - `Thijs Leeuw` | `S3971155` | `@thijsleeuw08-tech`
 - `Joep Scheers` | `S3963888` | `@joepscheers2009-tech`
 - `Stef Laarman` | `S3958965` | `@steflaarman08`
-- `Goos van der Aa` | `3881350` | `@Goos239`
+- `Goos van der Aa` | `S3881350` | `@Goos239`
   
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
