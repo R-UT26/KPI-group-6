@@ -4,7 +4,7 @@
 
 - `Sjoerd Bottema` | `S3972968` | `@SjoerdBottema-Tech`
 - `Thijs Leeuw` | `S3971155` | `@thijsleeuw08-tech`
-- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `<Joep Scheers>` | `<S3963888>` | `@<joepscheers2009-tech>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
 
 Adjust the number of lines to your group size.
