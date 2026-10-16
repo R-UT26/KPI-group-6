@@ -1,6 +1,6 @@
 # KPI Group Project
 
-## Group `<group number>`
+## Group `6`
 
 - `Rafe Ordelmans` | `S3949710` | `R-UT26`
 - `Sjoerd Bottema` | `S3972968` | `@SjoerdBottema-Tech`
