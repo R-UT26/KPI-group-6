@@ -3,7 +3,7 @@
 ## Group `<group number>`
 
 - `Sjoerd Bottema` | `S3972968` | `@SjoerdBottema-Tech`
-- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `Thijs Leeuw` | `S3971155` | `@thijsleeuw08-tech`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
 
