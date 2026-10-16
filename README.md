@@ -6,7 +6,9 @@
 - `Thijs Leeuw` | `S3971155` | `@thijsleeuw08-tech`
 - `<Joep Scheers>` | `<S3963888>` | `@<joepscheers2009-tech>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
-
+- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `<student name>` | `<student ID>` | `@<GitHub username>`
+  
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
 
