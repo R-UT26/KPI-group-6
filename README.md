@@ -5,7 +5,7 @@
 - `Sjoerd Bottema` | `S3972968` | `@SjoerdBottema-Tech`
 - `Thijs Leeuw` | `S3971155` | `@thijsleeuw08-tech`
 - `Joep Scheers` | `S3963888` | `@joepscheers2009-tech`
-- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `Stef Laarman` | `S3958965` | `@steflaarman08`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
   
